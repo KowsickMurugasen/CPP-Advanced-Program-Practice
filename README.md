@@ -48,9 +48,9 @@ template <typename T>
 class Developer {
 private:
     const string name       = "KOWSICK M";
-    const string location   = "Your City, Country 🌐";
-    const string degree     = "B.Tech — Computer Science";
-    const string email      = "youremail@gmail.com";
+    const string location   = "Tirupur, Tamil Nadu, India 🌐";
+    const string degree     = "B.E — Electronics and Communication Engineering";
+    const string email      = "kowsickmurugasen@gmail.com";
 
     vector<string> expertise = {
         "OOP & Design Patterns",  "Data Structures & Algorithms",
